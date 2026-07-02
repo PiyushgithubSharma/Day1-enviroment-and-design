@@ -1,3 +1,7 @@
+## Note:- we have  data/raw/*  data/processed/* models/* 
+in .gitignore so we can't push these file in github
+
+
 # Day 1: Environment Setup and ML Problem Design
 
 ## Project Overview
